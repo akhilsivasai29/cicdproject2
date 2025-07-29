@@ -1,4 +1,4 @@
-# React + Vite
+# Welcome to 3rd year CICD Class s227
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
